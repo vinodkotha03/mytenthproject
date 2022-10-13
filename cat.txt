@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 new cvhnages
 new +1 Chnages
+=======
+new cvhnages 
+>>>>>>> f17325e (wdfsfsd)
